@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently working on python and C 👍🏾
+I'm currently learning on python and C 👍🏾
 
 
 # 💻 Tech Stack:
